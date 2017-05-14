@@ -1,0 +1,25 @@
+*{
+		margin: 0px;
+		padding: 0px;
+	}
+	.menu{
+		padding: 20px 0px;
+		background: url(bg.gif);
+	}
+	ul{
+		
+	}
+	li{
+		color: #b9f605;
+		display: inline;
+		padding: 0px 25px;
+
+		
+	}
+	a{
+		text-decoration: none;
+		color: white;
+	}
+	.specil{
+		color: #fdb306;
+	}
