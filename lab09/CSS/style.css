@@ -1,6 +1,7 @@
 
 /*通用类属性*/
 *{
+	overflow:scroll;
 	margin: 0;
 	padding: 0;
 }

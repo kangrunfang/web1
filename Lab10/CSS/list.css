@@ -1,0 +1,199 @@
+/*通用类属性*/
+*{
+	margin:0 auto;
+	padding: 0;
+	
+}
+
+
+ul li a:hover{
+	color:red;
+	
+}
+
+a:link{
+	text-decoration: none;
+	color: #522a06;
+	font-weight:bolder;
+}
+a:hover{
+	text-decoration: underline;
+}
+body{
+	background-image: url(../images/bodybg.gif);
+	width: 100%;
+	font-size: 12px;
+	color: #522a06;
+	padding: 0px;
+	font-family: '宋体',Serif;
+	background-repeat:repeat-x;
+}
+/*header部分*/
+#header{
+	height: 205px;
+	background-image: url(../images/bg.gif);
+	background-repeat: none;
+	background-position: center top;
+}
+#banner{
+	width: 1000px;
+	height: 164px;
+	margin: 0 auto;
+}
+#logo{
+	float: left;
+	padding-top: 38px;
+	padding-left: 25px;
+}
+#nav{
+	height: 40px;
+	background-image: url(../images/nav.jpg);
+}
+.nav_body{
+	width: 1000px;
+	margin: 0 auto;
+}
+.nav_content{
+	float: left;
+	width: 800px;
+	padding-top: 15px;
+	font-weight: bolder;
+	color: #fff;
+}
+ul li{
+	display: inline;
+}
+.first a{
+	height: 40px;
+	color: #f9f603;
+}
+.first a:hover{
+	color: #f9f603;
+	text-decoration: none;
+}
+.nav_search{
+	padding-top: 9px;
+}
+#input1{
+	width: 140px;
+	height: 19px;
+	background-color: #f8f5ee;
+}
+#input2{
+	width: 40px;
+	height: 21px;
+	background-color: #000;
+	color: #fff;
+	border: 1px solid #f8f5ee;
+	padding-left: 0px;
+}
+/*正文部分*/
+#content{
+	width:1000px;
+	margin:0 auto;
+	overflow:hidden;
+}
+#content-left{
+	width:280px;
+	float:left;
+}
+#no4{
+	width:180px;
+	margin:5px;
+	padding-top:5px;
+	padding-left:0px;
+}
+#list1{
+	
+	border:1px solid brown;
+	width:200px;
+	height:210px;
+	margin:10px;
+}
+
+#no2{
+	width:100px;
+	height:20px;
+	background-image:url(../images/menubg.gif);
+	background-repeat:none;
+	padding-top:5px;
+	padding-left:25px;
+}
+#no3{
+	width:100px;
+	height:20px;
+	padding-top:10px;
+	padding-left:25px;
+	list-style-type:none;
+}
+#list2{
+	border:1px solid brown;
+	width:200px;
+	height:170px;
+	margin:10px;
+}
+#tupian{
+	width:200px;
+	height:50px;
+	margin:10px;
+}
+#content-right{
+	width:700px;
+	float:left;
+	margin-left:0px;
+}
+#beijing{
+	width:700px;
+	height:32px;
+	background-image:url(../images/listtitle.png);
+	background-repeat:none;
+	font-size:12px;
+	color:brown;
+	padding-top:15px;
+	padding-left:50px;
+	margin-top:35px;
+}
+#list3{
+	width:700px;
+	margin:5px;
+	padding-left:10px;
+}
+.new{
+	width:700px;
+	height:25px;
+}
+.disc{
+	padding-left:10px;
+	list-style-type:disc;
+}
+.date{
+	float:right;
+}
+#one{
+	width:700px;
+	margin:px;
+}
+.num{
+	display:inline;
+	border:1px solid black;
+}
+
+
+
+/*footer部分*/
+#footer{
+	margin-top: 300px;
+	height: 105px;
+	width: 50%;
+	background-image: url(../images/foot.gif);
+	background-repeat: no-repeat;
+}
+#end{
+	padding-top: 40px;
+	padding-left: 50px;
+}
+#endimg{
+	width: 400px;
+	height: 20px;
+	margin-left: 520px;
+}
