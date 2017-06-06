@@ -1,0 +1,21 @@
+*{
+	margin:0;
+}
+.no{
+	width:300px;
+	float:left;
+	border:1px solid grey;
+}
+.desc{
+	font-size:20px;
+	padding-left:120px;
+}
+img{
+	opacity:0.5;
+}
+a img:hover{
+	opacity:1;
+}
+div.no a:hover img{
+	border:1px solid #333333;
+}
